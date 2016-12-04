@@ -5,6 +5,7 @@ body{
     background: #333333;
     opacity: 0.5;
     height: 50px;
+    background-repeat: no-repeat;
     
 }
 /*Strip the ul of padding and list styling*/
