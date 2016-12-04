@@ -6,6 +6,7 @@ body{
     opacity: 0.5;
     height: 50px;
     background-repeat: no-repeat;
+    background-size: cover;
     
 }
 /*Strip the ul of padding and list styling*/
