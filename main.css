@@ -1,13 +1,12 @@
 body{
     background-image: url(./Pics/nature.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 #selectionBar{
     background: #333333;
     opacity: 0.5;
-    height: 50px;
-    background-repeat: no-repeat;
-    background-size: cover;
-    
+    height: 50px;    
 }
 /*Strip the ul of padding and list styling*/
 ul {
