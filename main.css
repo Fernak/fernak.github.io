@@ -1,6 +1,6 @@
 body{
-    background-image: url(./Pics/island.jpg);
-    background-size: contain;
+    background-image: url(./Pics/nature.jpg);
+    background-size: cover;
 }
 #selectionBar{
     background: #333333;
