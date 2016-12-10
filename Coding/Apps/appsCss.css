@@ -95,9 +95,9 @@ ul li a:hover + .hidden, .hidden:hover {
 }
 #Main{
     background: #333333;
-    opacity: 0.25;
+    opacity: 0.2;
     margin: 50px;
 }
 #mainTable{
-    align-items: center;
+    align-content: center;
 }
