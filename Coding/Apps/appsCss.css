@@ -93,3 +93,7 @@ ul li a:hover + .hidden, .hidden:hover {
 		width: 100%;
 	}
 }
+#Main{
+    background-color: azure;
+    padding: 50px;
+}
