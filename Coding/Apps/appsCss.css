@@ -95,8 +95,8 @@ ul li a:hover + .hidden, .hidden:hover {
 }
 #Main{
     background: #333333;
-    opacity: 0.5;
-    padding-left: 500px;
-    padding-right: 500px;
-    padding-top: 1000px;
+    opacity: 0.2;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 1000px;
 }
