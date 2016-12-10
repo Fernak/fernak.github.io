@@ -1,6 +1,6 @@
 body{
-    background-image: url(./Pics/nature.jpg);
-    background-size: cover;
+    background-image: url(../../Pics/nature.jpg);
+    background-size: contain;
 }
 #selectionBar{
     background: #333333;
@@ -94,6 +94,6 @@ ul li a:hover + .hidden, .hidden:hover {
 	}
 }
 #Main{
-    background-color: azure;
-    padding: 50px;
+    background-color:darkgray;
+    padding: 200px;
 }
