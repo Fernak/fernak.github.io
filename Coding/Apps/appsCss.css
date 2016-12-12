@@ -96,8 +96,8 @@ ul li a:hover + .hidden, .hidden:hover {
 #Main{
     background: #333333;
     opacity: 0.2;
-    margin: 50px;
+    margin:50px;
 }
 #mainTable{
-    align-content: center;
+    align-self: center;
 }
