@@ -93,11 +93,12 @@ ul li a:hover + .hidden, .hidden:hover {
 		width: 100%;
 	}
 }
-#Main{
-    background: #333333;
-    opacity: 0.2;
-    margin:50px;
+#Main p{
+    font-size: 150%;
+    color: white;
 }
-#mainTable{
-    align-self: center;
+a{
+    text-decoration: none;
+    color: red;
+    font-size: 150%;
 }
